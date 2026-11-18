@@ -1,0 +1,64 @@
+brand,products,avg_price_usd,avg_rating,total_stock
+Apple,14,454.28,3.55,537
+Rolex,6,12333.32,3.43,273
+Samsung,5,489.99,3.83,240
+Fashion Shades,4,28.24,3.96,112
+Dodge,3,31666.66,3.1,234
+Vivo,3,349.99,3.79,139
+Oppo,3,316.66,3.9,152
+Realme,3,266.66,4.16,140
+Chrysler,2,30499.99,3.83,107
+Annibale Colombo,2,2199.99,4.34,148
+Nike,2,114.99,4.32,19
+Off White,2,114.99,4.73,79
+Calvin Klein,2,64.99,4.64,122
+Urban Chic,2,33.99,3.04,134
+MotoGP,1,14999.99,2.97,10
+Kawasaki,1,8999.99,3.98,52
+SpeedMaster,1,7499.99,3.94,0
+IWC,1,4999.99,2.93,90
+Generic Motors,1,3999.99,4.91,34
+ScootMaster,1,2999.99,2.53,84
+Asus,1,1799.99,3.95,45
+Dell,1,1499.99,2.67,74
+Longines,1,1499.99,3.87,100
+Huawei,1,1399.99,4.98,75
+Lenovo,1,1099.99,2.86,40
+Bath Trends,1,799.99,3.59,7
+Fashion Gold,1,799.99,4.24,0
+Prada,1,599.99,2.71,75
+Knoll,1,499.99,4.88,26
+ProVision,1,499.99,2.78,15
+Furniture Co.,1,299.99,2.87,64
+Chanel,1,129.99,4.26,58
+Fashion Co.,1,129.99,3.52,12
+Heshe,1,129.99,4.92,99
+Amazon,1,99.99,4.99,61
+Dior,1,89.99,3.8,98
+Fashion Timepieces,1,89.99,4.19,32
+Puma,1,89.99,4.9,90
+Gucci,1,79.99,2.74,91
+Dolce & Gabbana,1,69.99,3.96,4
+Elegance Collection,1,59.99,2.89,11
+Beats,1,49.99,4.24,50
+Fashion Diva,1,49.99,3.26,88
+Fashionista,1,49.99,2.92,76
+Classic Wear,1,34.99,3.46,82
+Fashion Express,1,34.99,3.25,7
+Fashion Trends,1,29.99,3.64,38
+Pampi,1,29.99,3.05,49
+Gigabyte,1,24.99,3.18,90
+Casual Comfort,1,19.99,2.9,2
+Comfort Trends,1,19.99,2.53,3
+Fashion Fun,1,19.99,2.79,86
+Glamour Beauty,1,19.99,2.86,34
+TechGear,1,19.99,4.43,48
+GadgetMaster,1,14.99,3.55,58
+Velvet Touch,1,14.99,4.64,89
+Chic Cosmetics,1,12.99,4.36,91
+Olay,1,12.99,4.51,34
+SnapTech,1,12.99,3.88,11
+Essence,1,9.99,2.56,99
+Vaseline,1,9.99,3.16,95
+Attitude,1,8.99,3.19,94
+Nail Couture,1,8.99,4.32,79

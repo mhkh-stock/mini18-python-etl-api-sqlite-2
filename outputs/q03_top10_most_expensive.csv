@@ -1,0 +1,11 @@
+product_id,title,category,brand,price_usd,discount_pct,price_after_discount_usd,stock
+170,Durango SXT RWD,vehicle,Dodge,36999.99,16.44,30917.19,95
+168,Charger SXT RWD,vehicle,Dodge,32999.99,8.23,30284.09,57
+171,Pacifica Touring,vehicle,Chrysler,31999.99,14.76,27276.79,53
+167,300 Touring,vehicle,Chrysler,28999.99,3.98,27845.79,54
+169,Dodge Hornet GT Plus,vehicle,Dodge,24999.99,2.63,24342.49,82
+191,Rolex Cellini Moonphase,womens-watches,Rolex,15999.99,4.11,15342.39,52
+115,MotoGP CI.H1,motorcycle,MotoGP,14999.99,6.92,13961.99,10
+98,Rolex Submariner Watch,mens-watches,Rolex,13999.99,5.05,13292.99,55
+96,Rolex Cellini Moonphase,mens-watches,Rolex,12999.99,17.52,10722.39,36
+97,Rolex Datejust,mens-watches,Rolex,10999.99,3.73,10589.69,86

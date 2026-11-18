@@ -1,0 +1,7 @@
+# Rebuilt database (rebuild with python3 src/etl.py --rebuild)
+*.db
+# Python bytecode and virtual environments
+__pycache__/
+*.pyc
+.venv/
+venv/

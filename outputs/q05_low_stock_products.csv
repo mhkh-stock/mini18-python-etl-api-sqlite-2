@@ -1,0 +1,16 @@
+product_id,title,category,brand,stock,price_usd,availability
+117,Sportbike Motorcycle,motorcycle,SpeedMaster,0,7499.99,Out of Stock
+193,Watch Gold for Women,womens-watches,Fashion Gold,0,799.99,Out of Stock
+132,Samsung Galaxy S8,smartphones,Samsung,0,499.99,Out of Stock
+153,Volleyball,sports-accessories,,0,11.99,Out of Stock
+105,Apple MagSafe Battery Pack,mobile-accessories,Apple,1,99.99,Low Stock
+102,Apple Airpower Wireless Charger,mobile-accessories,Apple,1,79.99,Low Stock
+155,Classic Sun Glasses,sunglasses,Fashion Shades,1,24.99,Low Stock
+184,Tropical Earring,womens-jewellery,,1,19.99,Low Stock
+86,Man Short Sleeve Shirt,mens-shirts,Casual Comfort,2,19.99,Low Stock
+185,Black & Brown Slipper,womens-shoes,Comfort Trends,3,19.99,Low Stock
+26,Green Chili Pepper,groceries,,3,0.99,Low Stock
+192,Rolex Datejust Women,womens-watches,Rolex,4,10999.99,Low Stock
+9,Dolce Shine Eau de,fragrances,Dolce & Gabbana,4,69.99,Low Stock
+152,Tennis Racket,sports-accessories,,6,49.99,Low Stock
+180,Dress Pea,womens-dresses,,6,49.99,Low Stock
